@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello devops!</h2>
+<h2>Azure is the next topic!</h2>
 </body>
 </html>
